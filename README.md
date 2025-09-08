@@ -1,4 +1,9 @@
+<p align="center">
+  <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="Next.js Logo" width="150">
+</p>
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+
 
 ## Getting Started
 
